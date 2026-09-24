@@ -1,0 +1,7 @@
+{
+  "python.defaultInterpreterPath": "C:\\student_course_management\\.venv\\Scripts\\python.exe",
+  "python.analysis.extraPaths": [
+    "../..",
+    ".."
+  ]
+}
