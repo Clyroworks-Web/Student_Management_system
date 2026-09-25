@@ -1,5 +1,11 @@
 .env
-.env.*
-!.env.example
+school.db
 __pycache__/
-*.pyc
+build/
+dist/
+StudentManagement.spec
+.venv/.vscode/
+*.pdf
+*.xlsx
+*.spec
+enrollment-Kiranmoy.py
